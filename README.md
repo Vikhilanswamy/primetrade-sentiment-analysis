@@ -82,4 +82,4 @@ Two evidence-backed strategy recommendations:
 
 ## 👤 Author
 
-Data Science Intern Candidate — Primetrade.ai Assignment
+Data Science Intern Candidate Vikhilan Swamy — Primetrade.ai Assignment
